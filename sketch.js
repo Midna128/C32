@@ -68,7 +68,7 @@ function setup() {
   button.position(220,30);
   button.size(50,50);
   button.mouseClicked(drop);
-  blower = createImg("ballon.png");
+  blower = createImg("balloon.png");
   blower.position(10,250);
   blower.size(150,100);
   blower.mouseClicked(airblow);
